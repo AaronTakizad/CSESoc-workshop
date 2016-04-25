@@ -1,0 +1,21 @@
+body{
+	background-color: #4aa3df;
+	font-family: monospace;
+	color: #ecf0f1;
+}
+.jumbotron{
+	color: #4aa3df;
+}
+.thumbnail{
+	color: #4aa3df;
+}
+.padding-fix{
+	padding: 0 20px 20px 20px;
+}
+.sm-row{
+    text-align: center;
+}
+.sm-icon{
+	color: #ecf0f1;
+	margin: 0 auto;
+}

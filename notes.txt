@@ -1,0 +1,21 @@
+- basic html
+	- doctype
+	- html
+	- head
+	- body
+	- title tag
+	- headings
+	- paragraphs
+	- attributes
+- basic CSS
+	- classes
+	- CSS rules are applied based on specificity
+- How to add bootstrap + adding bootstrap
+- Basics of bootstrap - set of tools used to make responsive web design quick and simple
+	- viewport tags
+	- Set of pre designed elements (go through page quickly)
+	- Responsive design through use of row and column classes
+- Groups of bootstrap elements are always contained in a container div
+- Rows in bootstrap are simply divs with the class row
+- Columns are implemented using a range of classes, multiple can be used (refer to site)
+- Images are implemented using <img> tags and the

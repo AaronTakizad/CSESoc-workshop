@@ -1,0 +1,44 @@
+- intro stuff
+	![tab]
+	explain doctype, html, head and body
+	change title
+	add h1 and h4 and explain
+	p
+	explain css and add style.css
+	body - bgcolor and text color font-family: monospace;
+	h1 - red text
+	.greenText
+- bootstrap stuff
+	bootstrap cdn
+	meta:vp
+	add in h1 about me
+	explain bootstrap
+		- at its simplest, it allows you to create response websites. 12 column based with 4 breakpoints
+	add in container, row and col-md-12
+	add in text-center
+- paragraphs
+	i'd like to be able to fit multiple of these paragraphs on one line, but only one column on mobile
+	new row with md-4 sm-6 xs-12
+	add jumbotron + fix css
+	add br br with hidden-xs
+	add headings to paragraphs
+- portfolio
+	add new row with h2 my projects
+	add new divs xs12 sm6 md4
+		- img placehold.it 300x200 img-rounded center-block
+		.padding-fix 0 20px 20px 20px
+			- top right bottom left
+
+- social media row
+	- add font awesome cdn after bootstrap before style
+	- a[tab] i[tab]
+	- add http:// url and fa fa-5x fa-facebook-square
+	- add target blank
+	- add class smicon
+	- add br br
+	- add sm-row wrapper class
+
+- hover.css
+	- add cdn
+	- add hvr-grow sm-icon a elements
+	
