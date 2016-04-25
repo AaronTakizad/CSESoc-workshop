@@ -25,7 +25,8 @@
 - portfolio
 	add new row with h2 my projects
 	add new divs xs12 sm6 md4
-		- img placehold.it 300x200 img-rounded center-block
+		- img placehold.it 300x200 img-rounded
+		- width-100, float none, width 100%
 		.padding-fix 0 20px 20px 20px
 			- top right bottom left
 
