@@ -1,0 +1,7 @@
+Welcome, if you've ever been interested in web development then this is the workshop for you!
+
+During the course of this workshop we will cover basic html, css and bootstrap, as well as font awesome, hover.css and some other useful tools. By the end of this workshop you will have a the skills and knowledge to make the front end for almost any type of website, and a responsive personal portfolio website on which to show your new creations off!
+
+The only thing you need to bring is a laptop with a plain text editor like Sublime Text if you plan on following on. I hope to see you all there!
+
+P.S. If you're keen to get extra prepared then check out emmet.io and add it to your favourite text editor (Sublime Text) to save yourself from having to type as much html.

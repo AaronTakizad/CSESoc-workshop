@@ -42,4 +42,3 @@
 - hover.css
 	- add cdn
 	- add hvr-grow sm-icon a elements
-	

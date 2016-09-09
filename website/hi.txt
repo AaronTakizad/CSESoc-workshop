@@ -1,0 +1,17 @@
+codecademy
+freecodecamp
+railstutorial.org (only the HTML sections, rails sucks)
+w3schools (doesn't suck anymore)
+wibit.net
+@taktak98
+
+
+HTML, CSS, SASS, Bootstrap (or Foundation) JavaScript, jQuery, HAML, CoffeeScript, AngularJS (or React)
+
+To get along with other devs:
+GIT & Github
+
+Paid coding resources:
+codeschool
+teamtreehouse
+codeavengers
